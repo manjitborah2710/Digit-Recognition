@@ -1,0 +1,5 @@
+data/
+to_be_predicted/
+*.png
+a.py
+model-2.ipynb
